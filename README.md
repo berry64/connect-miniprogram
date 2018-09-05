@@ -1,1 +1,3 @@
 # shsidconnect-miniprogram
+
+# edits required
